@@ -1,4 +1,4 @@
-# List of Offers App
+# List of Offers
 
 ![build](https://github.com/TatiMarksman/list-of-offers/workflows/build/badge.svg)
 
