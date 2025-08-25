@@ -21,9 +21,3 @@ A simple e-commerce product listing application built with React and TypeScript,
 * Props demonstration between components
 * Stock status badges (red for low stock, green for high stock)
 * Hover effects and modern styling
-
-## Languages
-
-* TypeScript 65.2%
-* CSS 28.3%
-* HTML 6.5%
