@@ -1,6 +1,6 @@
 # List of Offers App
 
-Build Status ![Build and Test](https://github.com/TatiMarksman/list-of-offers/workflows/Build%20and%20Test/badge.svg)
+Build Status ![build](https://github.com/TatiMarksman/list-of-offers/workflows/build/badge.svg)
 
 A simple e-commerce product listing application built with React and TypeScript, demonstrating props and component composition.
 
